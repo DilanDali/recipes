@@ -1,2 +1,2 @@
 # recipes
-Training project
+Training project for getting used to basic HTML5 functions
