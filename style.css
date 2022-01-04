@@ -1,0 +1,27 @@
+
+button {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+h3, .special.link {
+    background-color: black;
+    color: white;
+}
+
+
+
+li {
+    color: rgb(5, 44, 77);
+    font-family: verdana, sans-sarif
+    font-weight: bold;
+}
+
+#header.melon {
+    text-decoration: underline overline;
+}
